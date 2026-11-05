@@ -1,0 +1,10 @@
+{
+  "version": "1.1.0",
+  "appName": "MD ZEN STUDIO",
+  "displayVersion": "MD ZEN STUDIO V1.1.0",
+  "publishedAt": "2026-11-05T07:40:26.739381+00:00",
+  "releaseNotes": "Phiên bản chính thức MD ZEN STUDIO V1.1.0: Giao diện chuẩn MD Tool (Xanh lá nhẹ + Trắng Cam), AI Tóm tắt & Kể chuyện phim Ngôi thứ 3 chuẩn Review Phim Cafiha 1080p, tự động chuyển đổi Local Neural TTS ($0.00) khi chạm giới hạn Quota Cloud AI, mở nhanh thư mục đầu ra trực tiếp trên Windows Explorer.",
+  "customerPatchUrl": "https://raw.githubusercontent.com/Namhi86/md-zen-studio-releases/main/customer_patch.json",
+  "adminPatchUrl": "https://raw.githubusercontent.com/Namhi86/md-zen-studio-releases/main/admin_patch.json",
+  "downloadUrl": "https://github.com/Namhi86/md-zen-studio-releases/releases/latest"
+}

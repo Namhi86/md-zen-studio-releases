@@ -1,0 +1,68 @@
+{
+  "appName": "MD ZEN STUDIO",
+  "version": "1.1.0",
+  "displayVersion": "MD ZEN STUDIO V1.1.0",
+  "publishedAt": "2026-11-05T07:40:26.759369+00:00",
+  "files": [
+    {
+      "path": "package.json",
+      "size": 323,
+      "sha256": "75a80f00fd219263d1ae06c5b20c3b9eec81b5da6b556e24b34bedb90a87220b"
+    },
+    {
+      "path": "version.json",
+      "size": 849,
+      "sha256": "2dae1d18d481b0bf267a5b0774311cde3557b05ee8a24d09b2e91b0ce4a08094"
+    },
+    {
+      "path": "backend/__init__.py",
+      "size": 211,
+      "sha256": "5def1f7f612e9eb742097d7b06736a583ce0add963e1ae2aebf53b24e5766dc4"
+    },
+    {
+      "path": "backend/api/app.py",
+      "size": 50366,
+      "sha256": "ff8a4811efebd30916c24757a4bb9fa307658011e0b42870bcca4ce97d901965"
+    },
+    {
+      "path": "backend/services/tool_services.py",
+      "size": 75369,
+      "sha256": "78388d1924e92f3524e2a046b3729b44a4838dd6b98ff519b8557e1d5a117391"
+    },
+    {
+      "path": "backend/media/ffmpeg_engine.py",
+      "size": 67402,
+      "sha256": "86e47d5ae346c713701ee4c4f1560c1661553f6eb21baf53094560accb43b579"
+    },
+    {
+      "path": "frontend/index.html",
+      "size": 709,
+      "sha256": "b26717620b6ea1bc275cd1a84f29c86a0beb06fcf0b838c22ac6dd3c5ab578dc"
+    },
+    {
+      "path": "frontend/app.js",
+      "size": 152023,
+      "sha256": "0d659bbf7eea521578753b59fb15793e97c06056137605329e36c4655e784f5d"
+    },
+    {
+      "path": "frontend/styles.css",
+      "size": 13936,
+      "sha256": "6a87648855192a83cc8981615cbe1788706b8857a7aec638f16adfb8b926cfc7"
+    },
+    {
+      "path": "electron/main.js",
+      "size": 37545,
+      "sha256": "363895f142ab540fee9dc47f71d7c90147644174b0fca9d816e684001c32792a"
+    },
+    {
+      "path": "electron/preload.js",
+      "size": 3861,
+      "sha256": "d74565433ca1bfa029cd2cc6b4c4f918a18e5aa8ed1a278f9dd4ff8b5519ce71"
+    },
+    {
+      "path": "electron/splash.html",
+      "size": 4038,
+      "sha256": "1d8bd7fa0eaec99a5f31a10217516843723b8424bd36e825ced0909ce9480311"
+    }
+  ]
+}
