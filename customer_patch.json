@@ -1,0 +1,78 @@
+{
+  "appName": "MD ZEN STUDIO",
+  "version": "1.1.0",
+  "displayVersion": "MD ZEN STUDIO V1.1.0",
+  "publishedAt": "2026-11-07T15:09:10.132650+00:00",
+  "files": [
+    {
+      "path": "package.json",
+      "size": 323,
+      "sha256": "75a80f00fd219263d1ae06c5b20c3b9eec81b5da6b556e24b34bedb90a87220b"
+    },
+    {
+      "path": "version.json",
+      "size": 849,
+      "sha256": "fcf38bc1cfb2924412f3671d38066cede2201f7e5ec57c12ac8093c31fa97fd0"
+    },
+    {
+      "path": "backend/__init__.py",
+      "size": 208,
+      "sha256": "d3973bf6cdaea29d8885a758056f02360b114d405f821c07f68981dab2bc03a8"
+    },
+    {
+      "path": "backend/ipc_worker.py",
+      "size": 17811,
+      "sha256": "135d3cc28cf22aa2b4502fa8d0550d23119a74f71b0fb519926c1b1853cbdffd"
+    },
+    {
+      "path": "backend/api/app.py",
+      "size": 51492,
+      "sha256": "3e2d260b0a5445a091df99f5ff385f77c1e6b7383a32d2ca29403cbe085fd65d"
+    },
+    {
+      "path": "backend/core/license_manager.py",
+      "size": 67078,
+      "sha256": "02b9648d5e507121882fede5b33935b0d7e1e2a773e52a0945a95bcccabbb1ad"
+    },
+    {
+      "path": "backend/services/tool_services.py",
+      "size": 75369,
+      "sha256": "78388d1924e92f3524e2a046b3729b44a4838dd6b98ff519b8557e1d5a117391"
+    },
+    {
+      "path": "backend/media/ffmpeg_engine.py",
+      "size": 71290,
+      "sha256": "f8db0c315cbdc509473ccaba42c8e763732eff0ef59bfaea12bc51dfcdb2f34d"
+    },
+    {
+      "path": "frontend/index.html",
+      "size": 709,
+      "sha256": "b26717620b6ea1bc275cd1a84f29c86a0beb06fcf0b838c22ac6dd3c5ab578dc"
+    },
+    {
+      "path": "frontend/app.js",
+      "size": 186857,
+      "sha256": "266168959407f55b36997924c504ba8af72f87efa29b8b1d7aa3936c64ae55b3"
+    },
+    {
+      "path": "frontend/styles.css",
+      "size": 23284,
+      "sha256": "a32125a0690ea3cc2b19e92f8883aec39a6f9855a588ccce6bf504d98901b862"
+    },
+    {
+      "path": "electron/main.js",
+      "size": 41690,
+      "sha256": "191d3347c9c7e8189082222027491946baa8c5bc2f955094779b724225304a9e"
+    },
+    {
+      "path": "electron/preload.js",
+      "size": 3965,
+      "sha256": "c12f8f981af22b861cdef514a39d6614f940287f97f8c9e47fa52b54f64da8bb"
+    },
+    {
+      "path": "electron/splash.html",
+      "size": 4038,
+      "sha256": "1d8bd7fa0eaec99a5f31a10217516843723b8424bd36e825ced0909ce9480311"
+    }
+  ]
+}
